@@ -1,0 +1,15 @@
+*.log
+*.jou
+*.str
+*.dcp
+*.rpt
+*.ltx
+*.pb
+*.cache/
+*.runs/
+*.sim/
+*.ip_user_files/
+*.hw/
+*.Xil/
+*.tmp
+*.bak
